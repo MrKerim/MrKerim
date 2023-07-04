@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrKerim
 - 👀 I’m interested in Machine Learning & Quantum Computing
-- 🌱 I’m currently learning and studying Deep Learning, Image Processing also ✨Quantum Machine Learning✨
-- 💞️ I’m looking forward on any kind of mentoring or help.
+- 🌱 I’m currently learning and studying Dynamic Programming, Algorithms, and ✨Machine Learning✨
+- 💞️ I’m looking forward to any mentoring or help.
 -	📧 And if you want to reach me: here's my e-mail: mr.kerimslck@gmail.com
 
 <!---
